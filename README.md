@@ -1,4 +1,4 @@
-# Git for Pairs Practice
+# Brian
 ### These are some other things about this repo
 
 * It's great
