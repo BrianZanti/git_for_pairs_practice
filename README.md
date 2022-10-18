@@ -1,4 +1,4 @@
-# Git for Pairs Practice
+# Aether
 ### These are some other things about this repo
 
 * It's great
